@@ -41,6 +41,3 @@ def val_lettre(lettre):
         return lettre_d()
     elif lettre == 'M':
         return lettre_m()
-    else:
-        print("Pas de valeur pour cette lettre tu pus.")
-        return -1
